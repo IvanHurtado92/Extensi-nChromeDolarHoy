@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "DolarHoy",
+  "version": "1.0",
+  "description": "Programa que muestra el valor actual del dolar en distintas monedas",
+  "icons": {
+    "128": "icons/money128.png",
+    "48": "icons/money48.png",
+    "16": "icons/money16.png"
+  },
+  "action": {
+    
+    "default_title": "DolarHoy",
+    "default_popup": "index.html"
+  }
+}
